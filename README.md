@@ -2,7 +2,7 @@
 
 Meu nome é Raul Rodrigues
 
-- estou estudando no alura
+- estou estudando no [alura](https://www.alura.com.br/)
 - estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organizar meus projetos e compartilhamento de projetos desenvolvidos
 
